@@ -8,3 +8,5 @@ En este curso aprenderás:
 - Comandos básicos
 - Trabajo colaborativo
 - ... y mucho mas
+- Rama development
+- Ahora tenemos 2 ramas en el proyecto actual
